@@ -4,7 +4,7 @@
  * Description: Here is the shell implementation
  * Return: Always returns (0)
  */
-int main()
+int main(void)
 {
 char command[1024];
 while (1)
